@@ -74,19 +74,19 @@ const Footer = () => {
                   <span>
                     <i className="ri-map-pin-line"></i>
                   </span>
-                  <p> 123 Saeed Street Tanta, Egypt</p>
+                  <p> 123 Assuit, Egypt</p>
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-2">
                   <span>
                     <i className="ri-phone-line"></i>
                   </span>
-                  <p> 01068366419</p>{" "}
+                  <p> 01286976691</p>{" "}
                 </ListGroupItem>
 
                 <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-2">
                 <span><i className="ri-mail-line"></i></span>
-                   <p> ahmed1999khaled1999@gamil.com</p>
+                   <p> je0409389@gmail.com</p>
                  </ListGroupItem>
 
                 

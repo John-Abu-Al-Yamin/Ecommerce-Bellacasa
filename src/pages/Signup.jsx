@@ -56,7 +56,7 @@ const Signup = () => {
       );
       setLoading(false);
       toast.success("Account Created");
-      navigate("/login");
+      navigate("/");
     } catch (erorr) {
       setLoading(false);
 

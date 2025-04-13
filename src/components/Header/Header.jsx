@@ -121,7 +121,7 @@ const Header = () => {
                     <div className="d-flex justify-content-center  align-items-center flex-column" onClick={() => setToggle(!toggle)}>
                       <Link to="/signup">Signup</Link>
                       <Link to="/login">Login</Link>
-                      <Link to="/dashboard">Dashboard</Link>
+                      {/* <Link to="/dashboard">Dashboard</Link> */}
 
                     </div>
                   )}
